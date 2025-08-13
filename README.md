@@ -1,4 +1,4 @@
-# Georgian UFC Fighters Database 🇬🇪
+# Georgian UFC Fighters Database
 
 MySQL database tracking all Georgian fighters who have competed in the Ultimate Fighting Championship (UFC), celebrating Georgia's rising dominance in mixed martial arts.
 
