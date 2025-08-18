@@ -1,0 +1,6 @@
+opponent_name,fight_date,venue,location,weight_class,result,method,round_finished,finish_time,awards,total_strikes,takedowns,sub_attempts,sig_strikes,knockdowns
+"Charles Oliveira",2025-06-29,"T-Mobile Arena","Las Vegas, Nevada",Lightweight,Win,KO/TKO,1,2:27,"Performance of the Night",24,0,0,21,1
+"Charles Oliveira",2025-06-29,TBD,TBD,Featherweight,Win,KO/TKO,1,2:27,"Performance of the Night",24,0,0,21,1
+"Max Holloway",2024-10-26,"Etihad Arena","Abu Dhabi, UAE",Featherweight,Win,KO/TKO,3,1:34,"Performance of the Night",78,2,0,75,1
+"Alexander Volkanovski",2024-02-18,"Honda Center","Anaheim, CA",Featherweight,Win,KO/TKO,2,3:32,"Performance of the Night",47,0,0,47,0
+"Josh Emmett",2023-06-24,"VyStar Veterans Memorial Arena","Jacksonville, FL",Featherweight,Win,"Decision - Unanimous",5,5:00,NULL,171,3,0,152,1
