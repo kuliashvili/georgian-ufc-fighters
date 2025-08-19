@@ -1,0 +1,8 @@
+fight_id,fighter_id,fight_date,opponent,result,DECISION,round_finished,finish_time,event,created_at
+81,5,2025-02-09,"Colby Thicknesse",Win,"Decision - Unanimous",3,5:00,"UFC 312: Du Plessis vs. Strickland 2","2025-08-19 11:23:22"
+82,5,2023-05-20,"Johan Segas",Win,KO/TKO,1,1:27,"WOW 9: Way of Warriors FC","2025-08-19 11:23:22"
+83,5,2022-03-12,"Alberto Ibanez",Win,KO/TKO,1,1:54,"WAR MMA 1: World Athlete Radical","2025-08-19 11:23:22"
+84,5,2021-12-08,"Lucas Tenorio",Win,KO/TKO,1,1:48,"HDH: Hombres de Honor 110","2025-08-19 11:23:22"
+85,5,2015-05-29,"Ivo Ivanov",Loss,KO/TKO,3,4:10,"MFE: Mix Fight Events","2025-08-19 11:23:22"
+86,5,2015-05-09,"Alejandro Rumin",Win,"Submission (Rear Naked Choke)",1,2:59,"Climent Club: Climent Show MMA 4","2025-08-19 11:23:22"
+87,5,2015-04-04,"Andrew Braulio Lazaro Chiguano",Win,"Submission (Armbar)",1,1:30,"WCW: West Coast Warriors","2025-08-19 11:23:22"
