@@ -23,17 +23,22 @@ This database contains information about Georgian UFC fighters including:
 
 ### Current Tables
 - **fighters** - Complete fighter information and career statistics
+- **fight_records** - Individual bout details for each Georgian fighter
 
-*Note: Additional tables like `fight_records` for individual UFC bout details will be added in future updates.*
+## Files Available
+
+### CSV Data Files
+- **fighters_data.csv** - Complete fighter information and career statistics
+- **all_georgians_fights_orderby_date.csv** - Complete fight records of all Georgian UFC fighters ordered by date (newest fights first)
 
 ## Getting Started
 
 ### Quick Access
 The easiest way to explore the data:
 
-1. **Download the CSV file**: Get `fighters_data.csv` directly from the repository
+1. **Download the CSV files**: Get `fighters_data.csv` and `all_georgians_fights_orderby_date.csv` directly from the repository
 2. **Import to your preferred tool**: Use Excel, Google Sheets, or any database management system
-3. **For MySQL users**: Import the CSV into a new table using MySQL Workbench or command line
+3. **For MySQL users**: Import the CSV files into new tables using MySQL Workbench or command line
 
 ### For MySQL Setup
 ```bash
@@ -43,7 +48,7 @@ git clone https://github.com/kuliashvili/georgian-ufc-fighters.git
 # Navigate to the project
 cd georgian-ufc-fighters
 
-# Import the CSV file into your MySQL database
+# Import the CSV files into your MySQL database
 ```
 
 ## Regular Updates
