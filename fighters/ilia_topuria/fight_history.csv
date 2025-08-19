@@ -1,6 +1,18 @@
-opponent_name,fight_date,venue,location,weight_class,result,method,round_finished,finish_time,awards,total_strikes,takedowns,sub_attempts,sig_strikes,knockdowns
-"Charles Oliveira",2025-06-29,"T-Mobile Arena","Las Vegas, Nevada",Lightweight,Win,KO/TKO,1,2:27,"Performance of the Night",24,0,0,21,1
-"Charles Oliveira",2025-06-29,TBD,TBD,Featherweight,Win,KO/TKO,1,2:27,"Performance of the Night",24,0,0,21,1
-"Max Holloway",2024-10-26,"Etihad Arena","Abu Dhabi, UAE",Featherweight,Win,KO/TKO,3,1:34,"Performance of the Night",78,2,0,75,1
-"Alexander Volkanovski",2024-02-18,"Honda Center","Anaheim, CA",Featherweight,Win,KO/TKO,2,3:32,"Performance of the Night",47,0,0,47,0
-"Josh Emmett",2023-06-24,"VyStar Veterans Memorial Arena","Jacksonville, FL",Featherweight,Win,"Decision - Unanimous",5,5:00,NULL,171,3,0,152,1
+fight_id,fighter_id,fight_date,opponent,result,DECISION,round_finished,finish_time,event,created_at
+1,1,2025-06-29,"Charles Oliveira",Win,KO/TKO,1,2:27,"UFC 317: Topuria vs. Oliveira","2025-08-19 11:09:30"
+2,1,2024-10-26,"Max Holloway",Win,KO/TKO,3,1:34,"UFC 308: Topuria vs. Holloway","2025-08-19 11:09:30"
+3,1,2024-02-18,"Alexander Volkanovski",Win,KO/TKO,2,3:32,"UFC 298: Volkanovski vs. Topuria","2025-08-19 11:09:30"
+4,1,2023-06-24,"Josh Emmett",Win,"Decision - Unanimous",5,5:00,"UFC Fight Night: Emmett vs. Topuria","2025-08-19 11:09:30"
+5,1,2022-12-11,"Bryce Mitchell",Win,Submission,2,3:10,"UFC 282: Blachowicz vs. Ankalaev","2025-08-19 11:09:30"
+6,1,2022-03-19,"Jai Herbert",Win,KO/TKO,2,1:07,"UFC Fight Night: Volkov vs. Aspinall","2025-08-19 11:09:30"
+7,1,2021-07-11,"Ryan Hall",Win,KO/TKO,1,4:47,"UFC 264: Poirier vs. McGregor 3","2025-08-19 11:09:30"
+8,1,2020-12-06,"Damon Jackson",Win,KO/TKO,1,2:38,"UFC Fight Night: Hermansson vs. Vettori","2025-08-19 11:09:30"
+9,1,2020-10-11,"Youssef Zalal",Win,"Decision - Unanimous",3,5:00,"UFC Fight Night: Moraes vs. Sandhagen","2025-08-19 11:09:30"
+10,1,2019-11-15,"Stephen Goncalves",Win,KO,1,3:42,"Brave CF 29","2025-08-19 11:09:30"
+11,1,2019-09-07,"Luis Gomez",Win,"Submission (Triangle Armbar)",1,1:15,"Brave CF 26","2025-08-19 11:09:30"
+12,1,2018-06-16,"Brian Bouland",Win,"Submission (Anaconda Choke)",1,1:39,"CW 94: Bouland vs. Topuria","2025-08-19 11:09:30"
+13,1,2018-04-28,"Mika Hamalainen",Win,"Submission (Guillotine)",1,3:35,"CAGE 43: Cage MMA Finland 43","2025-08-19 11:09:30"
+14,1,2016-11-05,"Jhon Guarin",Win,"Submission (Guillotine)",2,2:50,"MFE: Mix Fight Events","2025-08-19 11:09:30"
+15,1,2016-05-07,"Daniel Vasquez",Win,"Submission (Rear Naked Choke)",1,1:50,"MFE: Mix Fight Events","2025-08-19 11:09:30"
+16,1,2015-05-09,"Kalil Martin El Chalibi",Win,"Submission (Rear Naked Choke)",1,1:03,"Climent Club: Climent Show MMA 4","2025-08-19 11:09:30"
+17,1,2015-04-04,"Francisco Javier Asprilla",Win,"Submission (Triangle Choke)",1,3:30,"WCW: West Coast Warriors","2025-08-19 11:09:30"
